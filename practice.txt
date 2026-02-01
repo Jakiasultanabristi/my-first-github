@@ -1,0 +1,11 @@
+
+git init
+
+git add .
+
+#sob amr mathar opor diye jacche aaaaaa
+git commit -m "check git commit"
+git git git bit tit it mit
+git branch -M main
+git remote add origin https://github.com/Jakiasultanabristi/practice.txt.git
+git push -u origin main
